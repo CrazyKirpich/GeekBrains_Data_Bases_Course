@@ -1,0 +1,15 @@
+C:\Users\Андр\Desktop\Data_bases_seminar_1\bin\Debug\net6.0\repo.exe
+C:\Users\Андр\Desktop\Data_bases_seminar_1\bin\Debug\net6.0\repo.deps.json
+C:\Users\Андр\Desktop\Data_bases_seminar_1\bin\Debug\net6.0\repo.runtimeconfig.json
+C:\Users\Андр\Desktop\Data_bases_seminar_1\bin\Debug\net6.0\repo.dll
+C:\Users\Андр\Desktop\Data_bases_seminar_1\bin\Debug\net6.0\repo.pdb
+C:\Users\Андр\Desktop\Data_bases_seminar_1\obj\Debug\net6.0\repo.csproj.AssemblyReference.cache
+C:\Users\Андр\Desktop\Data_bases_seminar_1\obj\Debug\net6.0\repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андр\Desktop\Data_bases_seminar_1\obj\Debug\net6.0\repo.AssemblyInfoInputs.cache
+C:\Users\Андр\Desktop\Data_bases_seminar_1\obj\Debug\net6.0\repo.AssemblyInfo.cs
+C:\Users\Андр\Desktop\Data_bases_seminar_1\obj\Debug\net6.0\repo.csproj.CoreCompileInputs.cache
+C:\Users\Андр\Desktop\Data_bases_seminar_1\obj\Debug\net6.0\repo.dll
+C:\Users\Андр\Desktop\Data_bases_seminar_1\obj\Debug\net6.0\refint\repo.dll
+C:\Users\Андр\Desktop\Data_bases_seminar_1\obj\Debug\net6.0\repo.pdb
+C:\Users\Андр\Desktop\Data_bases_seminar_1\obj\Debug\net6.0\repo.genruntimeconfig.cache
+C:\Users\Андр\Desktop\Data_bases_seminar_1\obj\Debug\net6.0\ref\repo.dll
